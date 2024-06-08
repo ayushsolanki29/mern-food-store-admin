@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Food Store / Admin Panel
+- fully authanticated panel for upload images and products. for frontend user can make payment and track from admin panel. manage products and category.
+## Features
+- Add + Remove + Edit  Produccts / Category
+- Manage Delivery Status
+- Track payment
+## Sample
+![img](https://github.com/ayushsolanki29/mern-food-store-admin/blob/main/screenshot/1.png)
+![img](https://github.com/ayushsolanki29/mern-food-store-admin/blob/main/screenshot/2.png)
+![img](https://github.com/ayushsolanki29/mern-food-store-admin/blob/main/screenshot/3.png)
+![img](https://github.com/ayushsolanki29/mern-food-store-admin/blob/main/screenshot/4.png)
+![img](https://github.com/ayushsolanki29/mern-food-store-admin/blob/main/screenshot/5.png)
